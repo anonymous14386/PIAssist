@@ -25,4 +25,5 @@ Wallpaper cred: https://www.reddit.com/r/StableDiffusion/comments/11lhrme/some_t
 Changelog:
 
 #Get some llamas
+
 curl -fsSL https://ollama.com/install.sh | sh
