@@ -16,3 +16,6 @@ Low power warning
   add "PSU_MAX_CURRENT=5000" to the bottom
   
   reboot
+
+-----------
+Wallpaper cred: https://www.reddit.com/r/StableDiffusion/comments/11lhrme/some_trippy_wallpapers_generated_with_leonardoai/#lightbox
