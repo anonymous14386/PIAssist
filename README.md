@@ -21,6 +21,10 @@ Low power warning
 Wallpaper cred: https://www.reddit.com/r/StableDiffusion/comments/11lhrme/some_trippy_wallpapers_generated_with_leonardoai/#lightbox
 
 ----------
+-SPEAKER AND MIC-
+https://wiki.seeedstudio.com/reSpeaker_usb_v3/
+Flash as usb device, plug in, works
+----------
 
 Changelog:
 
@@ -28,6 +32,11 @@ Changelog:
 
 curl -fsSL https://ollama.com/install.sh | sh
 
+pip install SpeechRecognition --break-system-packages
+
 ------------------------
 
 ollama serve
+
+--------------------------
+
