@@ -19,3 +19,10 @@ Low power warning
 
 -----------
 Wallpaper cred: https://www.reddit.com/r/StableDiffusion/comments/11lhrme/some_trippy_wallpapers_generated_with_leonardoai/#lightbox
+
+----------
+
+Changelog:
+
+#Get some llamas
+curl -fsSL https://ollama.com/install.sh | sh
