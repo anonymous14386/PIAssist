@@ -40,3 +40,9 @@ ollama serve
 
 --------------------------
 
+pip install ollama --break-system-packages
+
+ollama pull gemma2
+
+
+
